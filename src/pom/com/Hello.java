@@ -6,6 +6,7 @@ public class Hello {
 		System.out.println("Hello Zindagi");
 		System.out.println("HI");
 		System.out.println("NEW");
+		
 	}
 // pompu
 }
